@@ -3,7 +3,7 @@ public class SelectionSort {
         int[] a = {7, 8, 6, 3, 1, 2, 4, 9, 5};
         SelectionArray(a);
     }
-
+    
     public static void SelectionArray(int[] numbers) {
         int min_index = 0;
         int temp = 0;
